@@ -1,6 +1,6 @@
 # Ex.No: 5  Implementation of Steering behaviour-Pursue and Evade in Unity
-### Name : Safeeq Fazil A                                                                           
-### Reg No : 212222240086
+### Name : AFSAR JUMAIL S                                                                             
+### Reg NO : 212222240004
 ### AIM: 
 To write a program to simulate the process of Pursue and Evade behavior in Unity using NavigationMeshAgent. 
 ### Algorithm:
