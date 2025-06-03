@@ -1,6 +1,6 @@
 # Ex.No:7  Implementation of Simple Pathfinding with Obstacles
-### Name : Safeeq Fazil A                                                                            
-### Reg No : 212222240086
+### Name : AFSAR JUMAIL S                                                                             
+### Reg NO : 212222240004
 ### AIM: 
 To write a program to pathfinding using AI navigation 
 ### Algorithm:
