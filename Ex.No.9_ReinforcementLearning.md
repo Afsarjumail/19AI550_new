@@ -1,6 +1,6 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning 
-### Name : Safeeq Fazil A                                                                       
-### Reg NO : 212222240086
+### Name : AFSAR JUMAIL S                                                                             
+### Reg NO : 212222240004
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
 ### Algorithm:
