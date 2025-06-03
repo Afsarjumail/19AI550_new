@@ -1,6 +1,6 @@
 # Ex.No: 6  Implementation of Jumping  behaviour- Unity
-### Name : Safeeq Fazil A                                                                            
-### Reg No : 212222240086 
+### Name : AFSAR JUMAIL S                                                                             
+### Reg NO : 212222240004
 ### AIM: 
 To write a program to simulate the process of jumping in Unity.
 ### Algorithm:
