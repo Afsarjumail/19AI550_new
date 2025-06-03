@@ -1,6 +1,6 @@
 # Ex.No: 3  Basic movements in Unity 
-### Name : Safeeq Fazil A                                                           
-### Reg No : 212222240086
+### Name : AFSAR JUMAIL S                                                                             
+### Reg NO : 212222240004
 ### AIM: 
  To learn the basic movements translation,scaling and rotation of game objects through code.
 ### Procedure:
