@@ -1,6 +1,6 @@
 # Ex.No: 10  Implementation of Flappy bird game
-### Name : Safeeq Fazil A                                                                            
-### Reg NO : 212222240086
+### Name : AFSAR JUMAIL S                                                                             
+### Reg NO : 212222240004
 ### AIM: 
 To develop a game flappy bird in Unity 
 ### Algorithm:
